@@ -1,0 +1,20 @@
+application	APPLICATION	n	F958_7104	C1/ap958.c
+application	APPLICATION	flag2	F958_7105	C1/ap958.c
+application	APPLICATION	m_array	F958_7106	C1/ap958.c
+application	APPLICATION	w_array	F958_7107	C1/ap958.c
+application	APPLICATION	make	F958_7108	C1/ap958.c
+application	APPLICATION	prefer	F958_7109	C1/ap958.c
+application	APPLICATION	stable_marriage	F958_7110	C1/ap958.c
+application	APPLICATION	isvalid	F958_7111	C1/ap958.c
+application	APPLICATION	isstable	F958_7112	C1/ap958.c
+elks	ARRAY2 [INTEGER_32]	make	F959_3858	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	make_filled	F959_3859	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	initialize	F959_3860	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	item	F959_3861	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	height	F959_3862	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	width	F959_3863	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	put	F959_3864	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	force	F959_3865	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	wipe_out	F959_3866	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	resize	F959_3867	C1/ar959.c
+elks	ARRAY2 [INTEGER_32]	resize_with_default	F959_3868	C1/ar959.c
